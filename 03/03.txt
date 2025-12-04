@@ -51,12 +51,3 @@ in this example, the total output joltage is `98` \+ `89` \+ `78` \+ `92` =
 
 There are many batteries in front of you. Find the maximum joltage possible
 from each bank; _what is the total output joltage?_
-
-To begin, [get your puzzle input](3/input).
-
-Answer:
-
-You can also [Shareon
-[Bluesky](https://bsky.app/intent/compose?text=%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025+%23AdventOfCode+https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3)
-[Twitter](https://twitter.com/intent/tweet?text=%22Lobby%22+%2D+Day+3+%2D+Advent+of+Code+2025&url=https%3A%2F%2Fadventofcode%2Ecom%2F2025%2Fday%2F3&related=ericwastl&hashtags=AdventOfCode)
-[Mastodon](javascript:void\(0\);)] this puzzle.
