@@ -212,7 +212,7 @@ def download_problem_for_day(day, year=YEAR):
 
     # extract example
     text = response.text
-    example_start = text.split("For example")[1]
+    p = text.split("For example")[1]
     regex = "<pre><code>(.*?)</code></pre>"
     example = re.findall(regex, example_start, re.DOTALL)[-1].strip("\n")
     example = "\n".join([item for item in example.split("\n")])

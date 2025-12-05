@@ -61,3 +61,5 @@ forklift (marked with `x`):
 
 Consider your complete diagram of the paper roll locations. _How many rolls of
 paper can be accessed by a forklift?_
+
+Your puzzle answer was `1395`.
